@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LB4_WEBAPI", "LB4_WEBAPI.csproj", "{B4E69834-4E2D-4C20-BC5B-481810E8D737}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab2.DataAccess", "..\Lab2.DataAccess\Lab2.DataAccess.csproj", "{C0E15726-003F-465E-994F-8A385035F40E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4E69834-4E2D-4C20-BC5B-481810E8D737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E69834-4E2D-4C20-BC5B-481810E8D737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E69834-4E2D-4C20-BC5B-481810E8D737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E69834-4E2D-4C20-BC5B-481810E8D737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0E15726-003F-465E-994F-8A385035F40E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E15726-003F-465E-994F-8A385035F40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E15726-003F-465E-994F-8A385035F40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E15726-003F-465E-994F-8A385035F40E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B63478E0-0B17-405C-B68B-D95208DA7901}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@LB4_WEBAPI_HostAddress = http://localhost:5140
+
+GET {{LB4_WEBAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
